@@ -31,8 +31,7 @@ Replace '/path/to/chromedriver' in the code with the actual path to your ChromeD
 Run the following code to start training the agent:
 
 python
-```
-python dino_train.py```
+```python dino_train.py
 This will:
 
 Create a custom Gym environment for the Dino game.
@@ -42,8 +41,7 @@ Save the trained model as dino_dqn_model.
 To test the model, run the following code:
 
 python
-```
-python dino_test.py```
+```python dino_test.py 
 The agent will play the game based on the trained model and display its performance.
 
 Notes:
