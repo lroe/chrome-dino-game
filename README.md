@@ -21,9 +21,9 @@ A ChromeDriver matching your Chrome browser version (download from here)
 
 ## 2. Clone the Repository
 bash
-Copy code
-git clone https://github.com/yourusername/chrome-dino-rl.git
-cd chrome-dino-rl
+
+```git clone https://github.com/yourusername/chrome-dino-rl.git
+cd chrome-dino-rl```
 3. Setup ChromeDriver Path
 Replace '/path/to/chromedriver' in the code with the actual path to your ChromeDriver executable.
 
@@ -41,7 +41,7 @@ Save the trained model as dino_dqn_model.
 To test the model, run the following code:
 
 python
-```python dino_test.py 
+```python dino_test.py ```
 The agent will play the game based on the trained model and display its performance.
 
 Notes:
