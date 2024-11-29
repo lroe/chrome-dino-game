@@ -22,8 +22,8 @@ A ChromeDriver matching your Chrome browser version (download from here)
 ## 2. Clone the Repository
 bash
 
-```git clone https://github.com/yourusername/chrome-dino-rl.git```
-```cd chrome-dino-rl```
+```git clone https://github.com/lroe/chrome-dino-game/```
+```cd chrome-dino-game```
 3. Setup ChromeDriver Path
 Replace '/path/to/chromedriver' in the code with the actual path to your ChromeDriver executable.
 
